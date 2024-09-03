@@ -1,0 +1,8 @@
+#Global path to single directorry
+/szymanska/workshop/build
+
+#All cmake-buid-debug directoried
+cmake-build-debug
+
+.idea
+cmake-build-debug
